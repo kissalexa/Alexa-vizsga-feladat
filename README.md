@@ -1,1 +1,2 @@
 # Alexa-vizsga-feladat
+# böngészőből
