@@ -1,0 +1,18 @@
+header {
+    background-image: url(./img/111.webp);
+    background-position: center;
+    height: 250px;
+    border-radius: 10%;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-image: url(./img/érdekesség.jpg);
+}
+nav{
+    text-align: center;
+}
+main{
+    text-align: center;
+}

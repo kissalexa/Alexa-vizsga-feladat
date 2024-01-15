@@ -1,0 +1,70 @@
+/*header*/
+body{
+    background-image: url(./img/deer.jpg);
+    background-position: center;
+}
+nav{
+    text-align: center;
+}
+.head b {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    /* align-self: center; */
+    text-align: center;
+}
+.head h1 a{
+    color: black;
+    text-decoration: none;
+}
+.head b a{
+    color: black;
+    text-decoration: none;
+}
+img{
+    width: 250px;
+    border-radius: 42%;
+}
+
+/*header - űrlap*/
+.keret{
+    width: 400px;
+    margin: 0 auto;
+    background-image: url(./img/ködöserdö.jpg);
+    background-attachment:fixed;
+    padding: 30px;
+    border-radius: 10%;
+}
+h2{
+    text-align: center;
+}
+textarea{
+    background-color: rgb(215, 199, 178);
+}
+
+label, input {
+    padding-right: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+/*táblázat árlista*/
+.nyitva{
+    margin-left: auto;
+}
+
+/*táblázat nyitvatartás*/
+td{
+    text-align: center;
+}
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/*footer*/
+footer{
+    background-color: rgb(243, 188, 126);
+}
+footer h1{
+    text-align: center;
+}
